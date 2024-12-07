@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="anveshna-UWE-FLUSH" size="1.000000 0.439530" />
+    <ImageTarget name="zero-tolerance-examination-cell" size="1.000000 0.606259" />
+    <ImageTarget name="mlcoe" size="1.000000 0.275549" />
+    <ImageTarget name="boschcentre" size="1.000000 0.436109" />
+    <ImageTarget name="ccc" size="1.000000 0.392982" />
+    <ImageTarget name="queue-for-line-ground-floor" size="1.000000 1.418320" />
+    <ImageTarget name="vecell-17sustainable-dev-heading" size="1.000000 0.303427" />
+    <ImageTarget name="frameabove-si-board" size="1.000000 1.460196" />
+    <ImageTarget name="si-name" size="1.000000 0.379836" />
+    <ImageTarget name="noticeboard-exyernalExaminees" size="1.000000 0.323722" />
+    <ImageTarget name="droneclubboard" size="1.000000 0.365554" />
+    <ImageTarget name="apj-abdul-kalam" size="1.000000 1.303754" />
+    <ImageTarget name="pcname" size="1.000000 0.378759" />
+    <ImageTarget name="cseposter-objectives" size="1.000000 1.521912" />
+    <ImageTarget name="boschmegaposterportion" size="1.000000 0.371308" />
+    <ImageTarget name="mikenotissued" size="1.000000 1.334103" />
+    <ImageTarget name="firedonotuselift" size="1.000000 0.484831" />
+    <ImageTarget name="educatedpeopleboard" size="1.000000 0.687773" />
+    <ImageTarget name="watercooler" size="1.000000 0.802237" />
+    <ImageTarget name="dstl" size="1.000000 0.191520" />
+    <ImageTarget name="bitsvrrescue" size="1.000000 0.389494" />
+    <ImageTarget name="acc" size="1.000000 1.762946" />
+    <ImageTarget name="boschservicebanner" size="1.000000 0.941228" />
+    <ImageTarget name="liftposterbottomportion" size="1.000000 0.882562" />
+    <ImageTarget name="bdcoe" size="1.000000 0.394101" />
+    <ImageTarget name="freshersposter" size="1.000000 1.503549" />
+    <ImageTarget name="csiboard" size="1.000000 0.663617" />
+    <ImageTarget name="deptofcse" size="1.000000 0.528571" />
+    <ImageTarget name="donateblood" size="1.000000 0.680600" />
+    <ImageTarget name="aggressionfreeakgec" size="1.000000 0.657875" />
+    <ImageTarget name="conatus" size="1.000000 0.625599" />
+  </Tracking>
+</QCARConfig>
