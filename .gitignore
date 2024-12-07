@@ -11,7 +11,6 @@
 /[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
-# They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
@@ -70,3 +69,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Vuforia-specific files
+[Aa]ssets/Editor/Vuforia/
+[Aa]ssets/Vuforia/Settings/GeneratedARConfigs/
+[Aa]ssets/Vuforia/*.dat
+[Aa]ssets/Vuforia/*.xml
+[Aa]ssets/Vuforia/Editor/
+
+# Ignore large files
+adowReceiver.shade
+Packages/com.ptc.vuforia.engine-*.tgz
+MobileA*.shadergraph
